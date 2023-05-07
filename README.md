@@ -14,6 +14,7 @@
 
   - [{{Amazone Website using HTML&CSS}}](https://maryam243.github.io/Amazon/)
   - [{{Noon Website using Bootstrap }}](https://yuque.com/{{@root.namespace}}/{{slug}})
+  - [{{Amazone Website using HTML&CSS&Js}}]( https://maryam243.github.io/AmazonJs/)
   - [{{Cafe Website using PHP}}](https://yuque.com/{{@root.namespace}}/{{slug}})
   - [{{E-commerce Website using Angular}}](https://yuque.com/{{@root.namespace}}/{{slug}})
 
