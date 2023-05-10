@@ -12,12 +12,12 @@
 <h4> Latest projects: </h4>
 
 
-  - [{{Amazone Website using HTML&CSS}}](https://maryam243.github.io/Amazon/)
-  - [{{Noon Website using Bootstrap }}]( https://maryam243.github.io/noon/)
+  - [{{Amazone Website using HTML&CSS}}](https://amazon-azure-beta.vercel.app/)
+  - [{{Noon Website using Bootstrap }}](https://noon-ebon.vercel.app/)
   - [{{Amazone Website using HTML&CSS&Js}}]( https://maryam243.github.io/AmazonJs/)
-  - [{{Cafe Website using PHP}}](https://yuque.com/{{@root.namespace}}/{{slug}})
   - [{{E-commerce Website for "User" using Angular}}](https://ecommerce-user-nx3nxa8oj-maryam243.vercel.app/main/products)
   - [{{E-commerce Website for "Admin" using Angular}}](https://e-commerce-admin-uhuo.vercel.app/auth/login)
+  - [{{Cafe Website using PHP}}](https://yuque.com/{{@root.namespace}}/{{slug}})
 
 ## 🛠️ &nbsp;Languages and Skils
   <p align="left"><a href="https://getbootstrap.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/1200px-Red_Hat_logo.svg.png" alt="RedHat" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://postman.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40"/> </a></p>
