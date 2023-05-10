@@ -14,7 +14,7 @@
 
   - [{{Amazone Website using HTML&CSS}}](https://amazon-azure-beta.vercel.app/)
   - [{{Noon Website using Bootstrap }}](https://noon-ebon.vercel.app/)
-  - [{{Amazone Website using HTML&CSS&Js}}]( https://maryam243.github.io/AmazonJs/)
+  - [{{Amazone Website using HTML&CSS&Js}}](https://amazon-js-tau.vercel.app/index.html)
   - [{{E-commerce Website for "User" using Angular}}](https://ecommerce-user-nx3nxa8oj-maryam243.vercel.app/main/products)
   - [{{E-commerce Website for "Admin" using Angular}}](https://e-commerce-admin-uhuo.vercel.app/auth/login)
   - [{{Cafe Website using PHP}}](https://yuque.com/{{@root.namespace}}/{{slug}})
